@@ -1,5 +1,7 @@
 # Gitea installation on Raspberry pi
 
+**Note: Work in progress**
+
 Primary information was taken from ([here]https://pimylifeup.com/raspberry-pi-gitea/). Original installation guide is on Gitea docs ([webpage]https://docs.gitea.com/next/installation/install-from-binary)
 
 
