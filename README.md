@@ -14,4 +14,5 @@ At the heart of iTop is the CMDB (Configuration Management Data Base), this is o
 
 ## Monitoring
 **Nagios core** - possible to run on Raspberry Pi (from source code).
+
 **Icinga2** - fork of Nagios. Can be installed to Raspberry Pi from package
