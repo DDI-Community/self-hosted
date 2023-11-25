@@ -11,3 +11,7 @@ Information about nice self-hosted apps we find usefull.
 
 At the heart of iTop is the CMDB (Configuration Management Data Base), this is originally the first part of iTop that was developed. Then came the tickets and all the derived processes.
 ([More info](https://www.combodo.com/itop-193))
+
+## Monitoring
+**Nagios core** - possible to run on Raspberry Pi (from source code).
+**Icinga2** - fork of Nagios. Can be installed to Raspberry Pi from package
